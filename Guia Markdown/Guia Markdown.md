@@ -1,0 +1,1 @@
+Guia Markdown https://mediamanager.com.br/produtividade/markdown-guia-completo/
