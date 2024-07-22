@@ -1,5 +1,6 @@
 # dio-desafio-github
 Desafio de projeto Git/Github
+
 A Inteligência Artificial (IA) está sendo cada vez mais utilizada no mercado financeiro para melhorar a eficiência, reduzir riscos e gerar insights valiosos. Aqui estão algumas maneiras de aplicar a IA no setor financeiro:
 
 ### 1. **Análise de Dados e Previsões de Mercado**
